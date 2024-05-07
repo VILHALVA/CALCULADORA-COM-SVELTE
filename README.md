@@ -51,7 +51,6 @@
 * [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
 * [CURSO DE NODEJS](https://github.com/VILHALVA/CURSO-DE-NODEJS)
 * [CURSO DE SVELTE](https://github.com/VILHALVA/CURSO-DE-SVELTE)
-* [ACESSE A API "DICTIONARYAPI.DEV"](https://dictionaryapi.dev/)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
